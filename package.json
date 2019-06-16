@@ -1,0 +1,23 @@
+{
+  "name": "integration_state_builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest ./src --watchAll",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "mongoose": "^5.5.9"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "cypress": "^3.3.0",
+    "jest": "^24.8.0",
+    "nodemon": "^1.19.0"
+  }
+}
