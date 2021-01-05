@@ -14,7 +14,7 @@
     "mongoose": "^5.5.9"
   },
   "devDependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cors": "^2.8.5",
     "cypress": "^3.3.0",
     "jest": "^24.8.0",
